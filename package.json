@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/brl1906/Project-Intake-Form/issues"
   },
-  "homepage": "https://github.com/brl1906/Project-Intake-Form#readme"
+  "homepage": "https://github.com/brl1906/Project-Intake-Form#readme",
+  "dependencies": {
+    "express": "^4.3.1"
+  }
 }
